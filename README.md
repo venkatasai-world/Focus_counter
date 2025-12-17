@@ -55,8 +55,9 @@ This ensures persistence without the need for external databases or configuratio
 - Suitable for academic projects and portfolios
 
 ---
-
+## 🎯 Key Highlights
 <img src="output.png">
+---
 
 ## 🚀 Use Case
 
