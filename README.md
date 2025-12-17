@@ -56,6 +56,8 @@ This ensures persistence without the need for external databases or configuratio
 
 ---
 
+<img src="output.png">
+
 ## 🚀 Use Case
 
 Ideal for:
